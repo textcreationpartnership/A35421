@@ -1,0 +1,530 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiritual opticks, or, A glasse discovering the weaknesse and imperfection of a Christians knowledge in this life by Nathanael Culvervvell ...</title>
+            <author>Culverwel, Nathanael, d. 1651?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35421</idno>
+            <idno type="STC">Wing C7573</idno>
+            <idno type="STC">ESTC R8817</idno>
+            <idno type="EEBO-CITATION">12641026</idno>
+            <idno type="OCLC">ocm 12641026</idno>
+            <idno type="VID">65020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65020)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 349:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Spiritual opticks, or, A glasse discovering the weaknesse and imperfection of a Christians knowledge in this life by Nathanael Culvervvell ...</title>
+                  <author>Culverwel, Nathanael, d. 1651?</author>
+                  <author>Dillingham, William, 1617?-1689.</author>
+               </titleStmt>
+               <extent>[6], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Buck ... and are to be sold by Anthony Nicholson ...,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Editor's letter signed: W.D. [i.e., William Dillingham]. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 1st, XIII, 12 --  Criticism, interpretation, etc.</term>
+               <term>Religion --  Philosophy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65020:1"/>
+            <pb facs="tcp:65020:1" rendition="simple:additions"/>
+            <p>SPIRITUAL OPTICKS: OF A GLASSE Diſcovering the weakneſſe and im<g ref="char:EOLhyphen"/>perfection of a Chriſtians know<g ref="char:EOLhyphen"/>ledge in this life. <hi>BY</hi> NATHANAEL CULVERVVELL, Maſter of Arts, and lately Fellow of <hi>EMMANUEL COLLEDGE in</hi> CAMBRIDGE</p>
+            <p>Printed by THOMAS BUCK one of the Printers to that Univerſitie. 1651. <hi>And are to be ſold by</hi> Anthony Nicholſon, <hi>Stationer there.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65020:2"/>
+            <pb facs="tcp:65020:2"/>
+            <head>To the Reader</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Here preſent thee with a little mirrour, wherein thou mayeſt eaſily diſcern thine own imperfections, unleſſe they ſtand in thy light; and if thou wilt but uſe to reflect upon thy ſelf, and dwell at home, thou mayeſt eaſily find that thou haſt little reaſon either to admire thy ſelf, or contemn others. If thy knowledge puff thee up, thou haſt ſo much the leſſe. He was counted a wiſe man who ſaid that <hi>he knew but one thing,</hi> and that was, <hi>that he knew nothing;</hi> though another durſt not own ſo much; and a wiſer man then both tell us, that <hi>he that is wiſe in his own eyes</hi> is of all fools the moſt incurable; and another, that <hi>if any man think that he knows any thing, he knows nothing</hi> yet <hi>as he ought to know.</hi> So that it ſeems to be agreed on by thoſe who are beſt able to judge, that the firſt piece of wiſdome is to be ſenſible of ignorance. Then I hope this Diſcourſe may prove not unprofitable, truly nor unſeaſonable
+<pb facs="tcp:65020:3"/>neither in this confident age, when every ignorant one is ſo prone to lean unto his own underſtanding, that he thinks himſelf too good to be taught, whereas in<g ref="char:EOLhyphen"/>deed he hath not yet wit enough to learn. But it is the Devils ſubtilty to dazzle them with new light (as boyes do geeſe) that they may wink conceitedly while he pulls them naked, and makes them become ridiculous. It is ſad to think how he puts out mens eyes, and then makes himſelf cruel ſport with them; &amp; the game of it is, that ſtill they think themſelves ſeers, <hi>and know not that they are blind, and naked, and miſerable.</hi> Now if this glaſſe prove but inſtru<g ref="char:EOLhyphen"/>mentall to reflect ſo much old light upon them, as to diſcover to them their own blindneſſe, there will be ſome hope of cure. But <hi>Reader,</hi> I muſt intreat thee neither to condemn this piece becauſe it is imperfect, nor yet contemn it for being little. It is imperfect, I confeſſe: but ſo is all our knowledge here, which is the ſubject of it; and if we know but in part, no wonder if we prophecy alſo but in part; beſides, if Saint Paul himſelf could not utter the words which he had heard, then truly we may very well excuſe this Authour for not expreſsing that in words, <hi>which neither ear hath heard, nor eye ſeen, nor the heart of man conceived.</hi> But it
+<pb facs="tcp:65020:3"/>may be what is here ſaid, may at firſt ſeem but little: it may be the ſooner read: do but peruſe it, and if it pleaſe thee, it is enough; if otherwiſe, too much. But indeed it was intended onely for a taſte, and to bear the mace into the world before that learned and ele<g ref="char:EOLhyphen"/>gant tratiſe, which this ingenious Authour hath left behind him concerning <hi>The light of Nature;</hi> which now waits onely to ſee what entertainment this will meet withall. Perhaps it may be expected that I ſhould adde ſomething in praiſe of the Au<g ref="char:EOLhyphen"/>thour: but I am not ignorant that a friends teſtimo<g ref="char:EOLhyphen"/>ny is prone to be ſuſpected of partiality; and although ſuch an one have moſt reaſon to know the truth, yet Caſſandra-like he ſeldome hath the hap to be be<g ref="char:EOLhyphen"/>lieved. The beſt on 'ti is, he needs it not, his works will commend him moſt effectually: which if I ſhall indeavour to bring into publick view, I hope thou wilt find them ſuch, that I ſhall not be thought ei<g ref="char:EOLhyphen"/>ther to have abuſed thy leiſure, or to have wronged the memory of my deceaſed friend.</p>
+            <closer>
+               <signed>W. D.</signed>
+               <dateline>Emman. <date>Dec. <hi>24. 1651.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:65020:4"/>
+            <pb n="1" facs="tcp:65020:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>I. COR. 13.12.</hi>
+                  </bibl>
+                  <p>For now we ſee through a glaſſe darkly; but then face to face: now I know in part, but then ſhall I know even as alſo I am known.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">P</seg>AUL that was of a piercing eie, and had as cleare an inſight into the myſteries of ſalvation, as any other; whoſe ſoul was alwayes mount<g ref="char:EOLhyphen"/>ing towards that third heaven, whither he had once been rapt, and had there heard words that neither could nor might be uttered (for ſo much is implyed in <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) we find him here granting the imperfection of his knowledge, thoſe weak and ſhadowy apprehenſi<g ref="char:EOLhyphen"/>ons which he had of the Divine Majeſtie, while the <hi>ſaw through a glaſſe darkly;</hi> and encouraging himſelf with the conſideration of the full and cleare viſion, which we ſhall have of him hereafter, when <hi>we ſhall ſee God face to face</hi> in glory. Without any further preamble wee'l open the words of the text, that we may ſee this glaſſe clearely, and not <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Our Apoſtle here advances charity to the higheſt pitch of commendation, as a triumphant grace, a grace that had eternity ſtampt upon it. It out-lives faith, for that gives place to viſion; it out-laſts hope, for that is ſwal<g ref="char:EOLhyphen"/>lowed up in fruition: Prophecies they ſhall vaniſh, and
+<pb n="2" facs="tcp:65020:5"/>tongues ſhall be ſilenced, and knowledge ſhall paſſe away: for 'tis weak and imperfect here, in its minority, yea, in its infancy; <hi>When I was a child I ſpake as a child.</hi> 'Tis cloudie and obſcure here; <hi>for now we ſee through a glaſſe darkly.</hi>
+            </p>
+            <p>
+               <hi>NOW we ſee &amp;c. Now</hi> that the Goſpel beams out upon us with a powerfull and glorious ray. It was likely that at the firſt peeping out of heavenly light, at the E<g ref="char:EOLhyphen"/>vangelicall day-break, before the ſhadows were fully ſcattered, that then there would be ſome obſcuritie: I but 't has ſhin'd out brighter and brighter till perfect day, and yet ſtill we ſee thus darkly.</p>
+            <p>Secondly, (which is the true and genuine meaning) <hi>Now</hi> whil'ſt we are in this houſe of our earthly tabernacle, whileſt the underſtanding of a man, which the wiſe man calls <hi>The candle of the Lord,</hi> while 'tis hid in the dark lan<g ref="char:EOLhyphen"/>tern of the bodie. Till this partition-wal be beaten down, we cannot <hi>ſee God face to face.</hi> There's no reaching of per<g ref="char:EOLhyphen"/>fection here, 'tis treaſur'd up for a better life. He that will ſhoot high may aim at a ſtarre, but he muſt not think to hit it. <hi>Nihil eſt ab omni parte beatum. Beatum &amp; perfectum</hi> are both one. Alas! <hi>now</hi> when the ſoul do's but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>try the wing,</hi> and flutter towards heaven, 'tis preſently pull'd down with an earthy bodie we carry about with us; 'tis ſo depreſt here, as it can hardly look up to heaven: how then ſhall it <hi>ſee God face to face?</hi>
+            </p>
+            <p>
+               <hi>Now WE ſee through a glaſſe &amp;c. Wee</hi> that have an holy <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that teaches us all things; <hi>we</hi> that have many ſecret <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the whiſperings and breathings of the holy Spirit, that <hi>leads us into all truth; we</hi> that are acquainted with the mind of God, that have had many a gracious aſpect from him, yet <hi>WE ſee but darkly.</hi> No wonder that
+<pb n="3" facs="tcp:65020:5"/>the ſunne's too bright for owls, when eagles are dazled with it, and become dimme-ſighted; tis like that ſuch as are aliens from the Commonwealth of Iſrael will be wholly ignorant of theſe <hi>Magnalia,</hi> when they that are <hi>à ſecretioribus</hi> know them but in part: if <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the ſonnes of the morning,</hi> the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>children of light;</hi> if theſe ſee ſo darkly, then ſurely a child of darkneſſe will ſee nothing at all: If Paul now a glorious Apoſtle ſee no more, what could he ſee when he was a furious perſecutour, before the ſcales fell from his eyes?</p>
+            <p>Secondly, <hi>We</hi> that are no novices in Chriſtianitie, but have made much progreſſe in the wayes of religion, yet <hi>we</hi> ſee but darkly. 'T was likely at the firſt opening of the ſouls eie, at the firſt caſt of it upon heavenly things, that then 't would not ſee ſo clearely. It but it hath been long fixt upon God, eying of his goodneſſe, gazing up<g ref="char:EOLhyphen"/>on the riches of his free grace, viewing all his wayes, looking at and prying into his ſeverall dealings; and yet ſtill it ſees thus darkly. And if a tall and eminent Chriſti<g ref="char:EOLhyphen"/>an ſee ſo little, what ſhall a babe ſee, a new born babe? If a vigorous and ſparkling eie ſee no clearer, what ſhall a weak diſtempered eie, a blear-eied ſoul, what ſhall that ſee? If an experienc'd Apoſtle, a Paul ſee no more, what ſhall a new diſciple ſee, a Nicodemus that comes by night? he muſt needs ſee but darkly.</p>
+            <p>Now we ſee <hi>through a glaſſe,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Some that would be more criticall then they need, would fain ſhew us a difference between <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> indeed with them is a looking-glaſſe: but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is ſome other glaſſe: either ſuch an one as is for the help of weak an aged eyes, and then 'tis, <hi>we ſee through ſpectacles;</hi> or elſe ſuch as preſents the object though a farre off, and ſo
+<pb n="4" facs="tcp:65020:6"/>'tis, <hi>we ſee through a perſpective.</hi> The Vulgar Latine, that will have it <hi>per tranſennam, through a lattice:</hi> as the Spouſe in the Canticles is ſaid <hi>to flouriſh through the lattices.</hi> And all theſe urge the force of the Prepoſition, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, we ſee <hi>through a glaſſe,</hi> or <hi>through a lattice.</hi> But they might eaſily know, if they pleaſed, that <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here, is the ſame with <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: and though it be true that <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the more uſuall word for a looking-glaſſe; yet 'tis as true that <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies the ſame. Heſychius makes them <hi>ſynonyma:</hi> and the word is but once more uſed in the New Teſtament, 1. <hi>James</hi> 23. and there can be no doubt but there 'tis taken for a looking-glaſſe. Well then, our dark imperfect knowledge of God here is thus ſet forth by <hi>ſeeing in a glaſſe;</hi>
+            </p>
+            <p n="1">1. Becauſe 'tis no immediate viſion: the object is not primarily and immediately preſented to the eie, but by way of reſultancie, and <hi>mediante ſpecule,</hi> by the convey<g ref="char:EOLhyphen"/>ance of the looking-glaſſe, which is a ſilent interpreter of the object. And ſuch is our knowledge of God here, and ſuch our communion with him; onely ſome broken beams of glory, ſome glimpſes of his preſence ſcattered here and there, in this ordinance, and in that, glaſſes of his own making, means of his proper inſtitution.</p>
+            <p n="2">2. 'Tis a weak and imperfect viſion: for, Firſt, ac<g ref="char:EOLhyphen"/>cording to ſome, not <hi>res ipſa</hi> but <hi>imago rei,</hi> onely the ſhape and reſemblance of the thing is ſeen; the effigies of the object drawn with the pencill of a beam is preſented to the eie. And Secondly, as the Opticks tell us, <hi>radius re<g ref="char:EOLhyphen"/>flexus languet,</hi> the beam begins to be weary, and is readie to faint, it gives a weak and languiſhing repreſentation, 'tis an imperfect viſion. And O how dark is our know<g ref="char:EOLhyphen"/>ledge of God here! what poore manifeſtations have we
+<pb n="5" facs="tcp:65020:6"/>of his preſence, in compariſon of that ſight which we look for hereafter! when his eſſence ſhall be diſplay'd with a moſt glorious Emphaſis.</p>
+            <p n="3">3. Seeing through a glaſſe is a vaniſhing and tranſient viſion, as S. James expreſſes it; <hi>A man having ſeen his naturall face in a glaſſe, goes his way, and preſently forgets what manner of man he was.</hi> A dying ſpecies could not make any ſtrong impreſſion. One direct view of an ob<g ref="char:EOLhyphen"/>ject is more full and ſatisfactorie, then the often ſeeing it through a glaſſe.</p>
+            <p>Our Apoſtle hath applied it to our purpoſe; <hi>Know<g ref="char:EOLhyphen"/>ledge paſſes away,</hi> in reſpect of that weak and imperfect way of knowledge which we have here; for thus S. Paul gloſſes upon his own text; <hi>When that which is perfect is come, then that which is imperfect ſhall be aboliſht.</hi>
+            </p>
+            <p>But beſides all this, Beza and ſome others think that our Apoſtle hath alluſion to that way of knowledge which the Philoſophers ſhew us, and ſo often ſpeak of; That the underſtanding doth <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in<g ref="char:EOLhyphen"/>tellectus ſpeculatur phantaſmata,</hi> and thus ſees <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. No light ſprings into the mind but through the window of ſenſe: the ſenſe, that's the firſt recepta<g ref="char:EOLhyphen"/>cle of the ſpecies, which flowing from a materiall ob<g ref="char:EOLhyphen"/>ject ſomewhat thick and muddy, they muſt be clarified and throughly refined by the <hi>Intellectus agens,</hi> (for that they ſuppoſe) poured out from veſſel to veſſel, and taken off from the lees before the ſoul drink them in as her proper <hi>nectar.</hi> This remote and far-fetcht way of knowledge Saint Paul oppoſes to the quick and pre<g ref="char:EOLhyphen"/>ſent view which we ſhall have of things <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, when we behold them <hi>in ſpeculo divino;</hi> we ſhall ſee in that glaſſe clearely. But there is a place in 2. Cor. 3.18.
+<pb n="6" facs="tcp:65020:7"/>where Saint Paul ſeemeth to oppoſe his own expreſ<g ref="char:EOLhyphen"/>ſion; for there <hi>to ſee through a glaſſe</hi> may ſeem to im<g ref="char:EOLhyphen"/>port a cleare and open viſion; Heare what the words ſay, <hi>We all with open face beholding as in a glaſſe the glory of God are changed into the ſame image from glory to glory, as by the ſpirit of our God.</hi>
+            </p>
+            <p>A learned Critick hath well obſerved that the Hebr. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> includes both, for it ſignifies both <hi>vultus</hi> and <hi>ſpe<g ref="char:EOLhyphen"/>culum.</hi> So that <hi>to ſee</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may either be <hi>to ſee</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or elſe, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I know ſuch as I formerly mentioned would have re<g ref="char:EOLhyphen"/>courſe to their difference of <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. but if we look more accurately into the words, I think we ſhall find that even there <hi>to ſee through a glaſſe</hi> implies a dark and imperfect viſion. For the Apoſtle compares thoſe preſent advantages which we in the Goſpel have over them which were under the Law: they were all un<g ref="char:EOLhyphen"/>der <hi>a cloud,</hi> and Moſes had <hi>a vail</hi> upon his face; but we <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>with open face behold the glory of God:</hi> and yet it is but beholding it <hi>through a glaſſe;</hi> for thus the ſtate of the Church under the Goſpel is de<g ref="char:EOLhyphen"/>ſcribed, Rev. 4. there's a throne compaſſed with <hi>a ſea of glaſſe,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, verſe 6. Under the Law it was <hi>mare aereum,</hi> but now in the Goſpel <hi>mare vitreum,</hi> clearer re<g ref="char:EOLhyphen"/>preſentations, as that renowned interpreter of the Re<g ref="char:EOLhyphen"/>velation obſerves. Well then, in reference to them un<g ref="char:EOLhyphen"/>der the Law we behold with open face, but yet in re<g ref="char:EOLhyphen"/>ſpect to that cleare ſight which we ſhall have hereafter, it is but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. and ſo it follows, <hi>we are changed into the ſame image from glory to glory:</hi> which though it may be thus underſtood, <hi>from his glory we become glorious;</hi> yet I doubt not but it is meant of the
+<pb n="7" facs="tcp:65020:7"/>ſeverall degrees of glory: and thus <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>from grace to glory.</hi> For grace is <hi>Aurora gloriae,</hi> the dawning of the beatificall viſion. Grace is glory in the bud, and glory is grace at the full. Surely glory is no<g ref="char:EOLhyphen"/>thing elſe but a bright conſtellation of graces, happi<g ref="char:EOLhyphen"/>neſſe nothing but the quinteſſence of holineſſe. And yet if any ſhall much contend, that there <hi>to ſee through a glaſſe</hi> expreſſes a cleare and unobſcure viſion, it is no<g ref="char:EOLhyphen"/>thing prejudiciall to our preſent purpoſe: for here Saint Paul doubles his expreſſion, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>we ſee through a glaſſe darkly in a riddle,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>Aenigma</hi> is properly <hi>obſcura allegoria,</hi> an allegory with a mask on: it is a borrowed ſpeech and a cloudy ſpeech. A knotty intricate ſpeech ſealed up and lockt from vul<g ref="char:EOLhyphen"/>gar apprehenſions, that's a riddle: and our knowledge of God here is thus cloudy and enigmaticall, and that if you take it in thoſe three ſeverall wayes which are uſually given of it.</p>
+            <p>Firſt, by way of removall or negation, when we take away all ſuch things as are inconſiſtent with a Deity. And thus the Scripture riddles him forth; <hi>With him is no be<g ref="char:EOLhyphen"/>ginning of dayes, nor end of life. He is not a man that he ſhould lie, or the ſonne of man that he ſhould repent. With him is no variableneſſe nor ſhadow of turning,</hi> &amp;c. and in this ſenſe Dionyſius tells us that <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and he there admires <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the tranſcen<g ref="char:EOLhyphen"/>dent beams of Divine darkneſſe;</hi> for ſo that Areopagite is pleaſed to ſpeak. Now you will eaſily grant that this is a dark and cloudy knowledge, when we cannot tell you what a thing is, but what it is not: for <hi>ex puris negativis nihil concluditur.</hi>
+            </p>
+            <p>Secondly, when we conceive of him in a ſuperlative
+<pb n="8" facs="tcp:65020:8"/>way, in a way of eminency and tranſcendency: and thus the forenamed authour (if he be the authour) ſpeaking of his being, ſaith that 't is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Many divine perfections are ſcattered and broken amongſt the creatures, as the ſame face may be repreſented in ſeveall glaſſes; and all the excellencies of the creatures are col<g ref="char:EOLhyphen"/>lected and meet eminently in God, as ſeverall faces may bee ſeen in one glaſſe. The creatures muſt be winnowed from all imperfections, and the fineſt and choiceſt of them muſt be taken to give ſome weak reſemblance of a Deity: the ruddineſſe of the roſe, and the purity of the lily, nay the top and excellencie of the creation muſt be brought to ſhadow out the Spouſes beauty; and yet that this knowledge is weak and imperfect will eaſily appeare. 1. Becauſe theſe inferiour beings are ſo groſſe and mate<g ref="char:EOLhyphen"/>riall, as that the pureſt of them, the very quinteſſence and <hi>flos creaturae</hi> is meer dregs, if compared with ſo pure an eſſence; its gold becomes droſſe, its ſilver time. And when heavenly perfections are ſet out by the creatures excellencies, it is but a ſtooping low to humane capacity: the ſoul would be dazeled at ſo bright a Majeſty, un<g ref="char:EOLhyphen"/>leſſe he were clouded with ſuch expreſſions. 2. This way of beholding him breeds rather admiration then begets knowledge; for when we heare of ſo goodly an eſſence that hath all excellencies bound up in one vaſt volume, we wonder what that ſhould be: and admira<g ref="char:EOLhyphen"/>tion is at the beſt but <hi>ſemen ſcientiae</hi> or <hi>abrupta ſcientia,</hi> as the learned Verulam calls it, <hi>a ſtupified kind of know<g ref="char:EOLhyphen"/>ledge.</hi> 3. This rather ſets the ſoul a longing then gives it any true ſatisfaction. For when we heare there is ſo choice a thing, we long to know what it is: which was a figne we knew it not before, or but very weakly. For
+<pb n="9" facs="tcp:65020:8"/>true knowledge ſatiates the ſoul, there is a complacency and acquieſcence in it, eſpecially when it is converſant about ſo high an object: ſo that this way is but dark and full of riddles.</p>
+            <p>Thirdly, When we conſider of God by way of Cau<g ref="char:EOLhyphen"/>ſality, in that vaſt influence which he hath upon all things, as with him is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as the ſup<g ref="char:EOLhyphen"/>poſed Areopagite) <hi>Springing beams of goodneſſe, and over<g ref="char:EOLhyphen"/>flowing effuſions of ight,</hi> as he is <hi>cauſa fontana,</hi> a fountain eſſence continually bubling forth, from whence the ſe<g ref="char:EOLhyphen"/>verall drops of inferiour beings have their originall: and as he is the main ſpring that ſets the wheels of thoſe pet<g ref="char:EOLhyphen"/>ty entities on working: for <hi>in him we live, move, and have our being.</hi> Now this rather ſhews us that there is a God, then what he is; that there is indeed ſuch a prime being, a ſelf-being, an all-being, a giver of being, <hi>à quo omnia, per quem omnia, propter quem omnia;</hi> but ſtill we are to ſeek, what this being is; ſo that theſe apprehenſions of him are very weak and ſhadowie, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>we now ſee through a glaſſe darkly.</hi>
+            </p>
+            <p>
+               <hi>But then] Then</hi> when a believing ſoul returns to God that gave it, it ſees him face to face, and fixes its eie upon him to all eternity. As ſoon as ever the ſoul is unſheath'd from the bodie, it gliſters moſt gloriouſly; as ſoon as ever it is unclouded from corruption, it ſhall beam forth moſt oriently; as ſoon as it is let looſe from this cage of clay, it ſings moſt melodiouſly: nothing hinders a Chriſtian from a ſight of God face to face, but the interpoſition of a groſſe earthy body; it is deaths office to break down this wall of ſeparation, that the ſoul may be admitted into the preſence of God.</p>
+            <p>Secondly, <hi>Then,</hi> at that generall day of refreſhment,
+<pb n="10" facs="tcp:65020:9"/>when God ſhall ſit upon his throne in beauty and excel<g ref="char:EOLhyphen"/>lencie as a centre of light ſtreaming forth to the glorious circumference of the foure and twenty Elders, that ſit <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as it is in the 4 of the Revelation.</p>
+            <p>
+               <hi>Face to face]</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. This is oppoſed to <hi>ſeeing in a glaſſe,</hi> 1. as a more immediate viſion: 2. a cleare and perfect viſion: 3. as a permanent and eternall viſion: 4. as the learned Piſcator, (becauſe thoſe things which we ſee in a glaſſe are <hi>à tergo</hi>) <hi>exceptâ facie &amp; corpore proprio.</hi>
+            </p>
+            <p>In the words there is a plain alluſion to that place in the 12 of Numbers the 8, where God promiſes to manifeſt himſelf to his ſervant Moſes, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Septuagint render it very agreeable to our purpoſe, &amp; that which is here <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is in other places <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and in Eſay <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and is tranſlated by S. John <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by our Apoſtle elſewhere <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and here <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>And yet we muſt not think that by vertue of this promiſe Moſes had ſo full and beatificall a viſion of God, as we expect hereafter in glory. No, it is ſpoken onely of Gods communicating himſelf to him in a clear<g ref="char:EOLhyphen"/>er way then he would to any of the Prophets: he would ſpeak to them in riddles, to Jeremie in the riddle of an almond tree, of a ſeething pot, and ſo to the reſt of the Prophets; I but he converſed familiarly with Moſes, as a man talks to his friend face to face. And as for Moſes his petition in the 33 of Exod. 18. <hi>I beſeech thee ſhew me thy glory,</hi> it was onely a deſire that God would ſhew himſelf in ſome corporeall reſemblance, ſo as to aſſure him of his preſence, that that would accompanie him. And this
+<pb n="11" facs="tcp:65020:9"/>is Gods anſwere, <hi>I will make all my goodneſſe paſſe before thee.</hi> Beſides, there is a plain deniall; God tells him he cannot ſee his face: Moſes ſaw no more of God then we do here, the back-parts of his glory; he ſaw them in a corporeal reſemblance, and we in an intellectuall viſion. You ſee the alluſion this place hath to that in Numbers.</p>
+            <p>Now as for the meaning of the words, <hi>but then face to face.</hi>
+            </p>
+            <p n="1">1. It is not meant of ſeeing Chriſt in his humane na<g ref="char:EOLhyphen"/>ture face to face, as Job ſpeaks, <hi>With theſe very eies I ſhall ſee my Redeemer:</hi> for thus the wicked alſo ſhall ſee him with terrour and amazement, when the mountains ſhall be eſteemed an eaſier burthen, if they could but cover them from the face of an angry Saviour that will frown them into hell,</p>
+            <p n="2">2. As for the errour of the Anthropomorphites, it is ſo groſſe as it neither deſerves to be repeated, nor needs to be confuted.</p>
+            <p n="3">3. I take it be meant of an Intellectuall beholding the very eſſence of God, according to that, 1. <hi>John</hi> 3.2. <hi>When he ſhall appeare we ſhall be like unto him, and ſee him as he is,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. and yet it can by no means be a comprehenſive viſion: for that's a mere repugnancy, that a finite creature ſhould graſp an infinite eſſence. Or by <hi>the face of God</hi> may be meant his glory and perfections; for the face is the throne of beauty.</p>
+            <p>In the following words S. Paul gives a plainer ex<g ref="char:EOLhyphen"/>preſſion of that which before he had ſpoke more darkly.</p>
+            <p>
+               <hi>Now I ſee through a glaſſe darkly, now I know in part; but then face to face, but then I ſhall know even as alſo I am known.</hi> As when two ſee one another face to face, the one knows the other by ſight, as he is known by him.</p>
+            <pb n="12" facs="tcp:65020:10"/>
+            <p>
+               <hi>Now I know in part]</hi> S. Paul on ſet purpoſe changes the perſon, that he may acknowledge his own imperfe<g ref="char:EOLhyphen"/>ction. He had included himſelf before, <hi>Now WE ſee through a glaſſe darkly.</hi> I, but he will do it more appa<g ref="char:EOLhyphen"/>rently, <hi>now I know in part:</hi> and when ſo great an Apoſtle inculcates his own defects, me thinks none ſhould boaſt of their ſelf-ſufficiencie.</p>
+            <p n="2">2. <hi>Now I KNOW in part]</hi> Here is a reaſon of our imper<g ref="char:EOLhyphen"/>fection here: <hi>If the light that is in thee be darkneſſe, how great is that darkneſſe?</hi> Knowledge is a leading principle, and all graces follow it in a juſt meaſure and proportion: if we knew God more, we ſhould obey him more; if we knew more of his goodneſſe, we ſhould love him more; if we knew more of his Majeſtie, we ſhould fear him more; if more of his faithfulneſſe, we ſhould truſt him more: nay, if we knew him perfectly, all theſe would be perfect: when knowledge is compleat, obedience will be exact.</p>
+            <p n="3">3. <hi>Now I know IN PART:</hi> according to the Syri<g ref="char:EOLhyphen"/>ack, <hi>parum de multo.</hi> 1. little of that I ſhould know. 2. little of that I might know. 3. little of that others know. 4. little of that I deſire to know. 5. little of that I ſhall know hereafter in glory.</p>
+            <p n="4">4. <hi>Now I KNOW in part.</hi> 1. Religion is no fanſie, opinion, or conjecturall thing: no, we have a certain knowledge of God and his wayes here; we ſee through a glaſſe, though it be but darkly: there is truth in a riddle, though it be obſcure. 2. A Chriſtian begins his acquain<g ref="char:EOLhyphen"/>tance with God here: he that knows him not <hi>in part here,</hi> ſhall never ſee him <hi>face to face in glory.</hi> We have here the firſt glimpſes of heaven, a proſpect of Canaan, the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of happineſſe, the initials of Glory.</p>
+            <pb n="13" facs="tcp:65020:10"/>
+            <p>
+               <hi>But then I ſhall know,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> differ. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. It is bringing me better acquainted with a thing that I knew before, a more exact viewing of an object that I ſaw before afarre off. That little portion of knowledge which we had here ſhall be much improved, our eye ſhall be raiſed to ſee the ſame things more ſtrongly and clearely. Our knowledge here was but <hi>ſcintilla futurae lucis.</hi> When the ſoul ſhall ſay as the Queen of Sheba did to Solomon in the 1. Kings 10. <hi>It was a true report that I heard in mine own land of thine acts and of thy wiſdome; howbeit I ſcarce believed the words untill I came, and mine eyes had ſeen it; and behold the half was not told me. Happy are thy men, O happy are theſe thy ſervants that ſtand continually before thee!</hi>
+            </p>
+            <p>
+               <hi>Even as alſo I am known.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The words if they be put to it will endure a double Hebraiſme. <hi>I ſhall know as I am known.</hi>
+            </p>
+            <p n="1">1. I ſhall know as I am <hi>approved, ſicut &amp; agnitus ſum;</hi> nay Chryſoſtome makes <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Cauſall;</hi> I ſhall know <hi>be<g ref="char:EOLhyphen"/>cauſe</hi> I am approved.</p>
+            <p n="2">2. I ſhall know as I am <hi>made to know.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith Beza; and (which is a wonder) Heinſius agrees with him. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith he; and indeed <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the ſame with the He<g ref="char:EOLhyphen"/>brew <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and he tells us if we would render the words Helleniſtically, they would run thus, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>I ſhall ſo know as God is pleaſed to be known by me,</hi> to manifeſt himſelf unto me. And yet Piſ<g ref="char:EOLhyphen"/>cator rejects both theſe ſenſes; the words themſelves be<g ref="char:EOLhyphen"/>ing ſufficiently tempered with the particle <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is not a note of equality, but of ſimilitude, as in many other places.</p>
+            <pb n="14" facs="tcp:65020:11"/>
+            <p>And thus much may ſerve for explication of the text for clearing the glaſſe, for opening the <hi>Aenigma.</hi> If you now look into the words, you'l find them full of ſpiritu<g ref="char:EOLhyphen"/>al Opticks. Here is <hi>Viſio reflexa;</hi> for <hi>now we ſee through a glaſſe darkly:</hi> and here is <hi>viſio recta; but then face to face.</hi> We will begin with the <hi>Catoptrica: Now we ſee through a Glaſſe darkly;</hi> and here I ſhall preſent many glaſ<g ref="char:EOLhyphen"/>ſes to your view.</p>
+            <p>Firſt, In the glaſſe of the <hi>Creature, in ſpeculo mundi.</hi> This is a common and obvious glaſſe preſented to eve<g ref="char:EOLhyphen"/>ry ones view, and there are ſome glimmerings of com<g ref="char:EOLhyphen"/>mon light, a <hi>lumen naturae</hi> diffuſed among all, by which they may ſee into it.</p>
+            <p>Our Apoſtle ſhews us this glaſſe in 1. Rom. 20. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The inviſible things of God from the cre<g ref="char:EOLhyphen"/>ation of the world are clearly ſeen.</hi> The words in the fountain run thus, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and deſerve to be cleared from an unjuſt interpretation: for ſome would have <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to be <hi>à creatura mundi:</hi> others <hi>à creatione mundi, ex creatione mundi:</hi> ſo Beza. But all theſe are farre enough from the meaning of the place: for their ſenſe is, That the inviſible things of God are ſeen by the creatures, or by the creation. It is true, our Apoſtle ſaith ſo much in this verſe, but not in theſe very words; for then it ſhould be <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, when as I doubt not but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the ſame with <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>à mundo condito.</hi> Piſcator and Druſius both meet in this, and the Syriack tranſlation is cleare for it <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>à jactis mundi fundamentis.</hi> And then the words ſpeak thus much, From the firſt infancy of the world, ever ſince it was created, the eternall power and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which are the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> mentioned in the
+<pb n="15" facs="tcp:65020:11"/>former verſe, and the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the beginning of this verſe, the eternal power and Godhead have mani<g ref="char:EOLhyphen"/>feſted themſelves, and the Prime cauſe hath been very apparent in thoſe effects of his, which are here ſtyled <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and could not poſſibly be produced by any in<g ref="char:EOLhyphen"/>ſeriour being. And as for that which we render <hi>is clearly ſeen,</hi> in the Originall it is no more then <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I know not how it comes to denote ſo cleare a viſion; ſure it may well conſiſt with <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and yet withall they are <hi>ſo</hi> clearely ſeen <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which though ſome would have the ſame with <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yet here I ſhall eaſily yield to the learned interpreter, and grant that it includes ſomewhat more.</p>
+            <p>This vaſt volume of the creatures ſet out by God him<g ref="char:EOLhyphen"/>ſelf without any <hi>errata</hi> in it, was printed in ſo fair a cha<g ref="char:EOLhyphen"/>racter, as he that ran might read it: and the leaſt letter in it made ſhew of a moſt Divine impreſſion. But alas! ſinne, beſides weakening of the ſouls eye, hath ſoyled and defaced the book; and hence we come to ſee in it ſo dark<g ref="char:EOLhyphen"/>ly. And yet ſtill the letters are viſible, and carry with them the print of a Deity. The world is, as one calls it, <hi>Aenigma Dei.</hi> And it is full of looking-glaſſes: for God hath communicated ſeverall reſemblances of himſelf to the creature, as the face ſheds that image or ſpecies up<g ref="char:EOLhyphen"/>on the glaſſe whereby it ſelf is repreſented. I need not ſpeak of the bleſſed Angels, thoſe pure and cryſtall mir<g ref="char:EOLhyphen"/>rours, what glorious repreſentations they give of their Creatour: look but into your ſelves, and you will find immortall ſouls ſhewing forth that image according to which they were made: or if you will look up to that vaſt and poliſhed looking-glaſſe, you will ſee <hi>The heavens de<g ref="char:EOLhyphen"/>claring the glory of God, and the firmament ſhewing his
+<pb n="16" facs="tcp:65020:12"/>handy work.</hi> Or caſt but an eye upon the pooreſt and moſt abject being, and even there you will find ſome faint reſemblances of a Deity. For as in the moſt glorious creature, as a creature, there is <hi>aliquid nihili;</hi> ſo in the moſt contemptible creature, as a creature, there is <hi>aliquid Dei.</hi> I, but the Atheiſt he ſhuts his eyes, <hi>&amp; quid caeco cum ſpe<g ref="char:EOLhyphen"/>culo?</hi> what ſhould a blind man do with a looking-glaſſe? And yet ſometimes there are lightening flaſhes of ter<g ref="char:EOLhyphen"/>rour darted into him, and he begins with the Devils <hi>to believe and tremble.</hi> The Papiſts, as if there were not glaſſes enough of Gods making, they muſt have images of their own to put them in mind of God; their painted glaſſes: but ſurely they ſee through theſe very darkly. The Heathens they ſhall be judged for not ordering their lives and dreſſing themſelves according to this glaſſe; for reſiſting thoſe reliques of primitive light that ſhined out ſo ſtrongly upon them. Well, here are glaſſes, but we ſee in them very darkly, and that by reaſon of a double de<g ref="char:EOLhyphen"/>fect.</p>
+            <p n="1">1. <hi>Ex parte ſpeculi.</hi>
+            </p>
+            <p>Tis true, ſome of Gods attributes here clearly ſhew themſelves: his power and ſovereigntie, I, and his wiſ<g ref="char:EOLhyphen"/>dome, and goodneſſe too; but thoſe ſweeteſt manifeſtati<g ref="char:EOLhyphen"/>ons of his love, the treaſures of free grace and infinite mercy, the whole plot of the Goſpel, not the leaſt ſha<g ref="char:EOLhyphen"/>dow of theſe to be found. Now for this very cauſe, the Gentiles in 2. <hi>Eph.</hi> 12. are called <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, becauſe they were without the knowledge of God in Chriſt. You know they had a goodly company of gods, an whole troop of deities: I, but they were without God in Chriſt, and hence they are ſtyled <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>without God in the world.</hi>
+            </p>
+            <pb n="17" facs="tcp:65020:12"/>
+            <p n="2">2. <hi>Ex parte oculi.</hi>
+            </p>
+            <p n="1">1. Adam in innocencie had a glorious ſoul full of light, bright and ſparkling eyes, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. He could read the ſmalleſt print, the leaſt jot and tittle in the book of nature. See how quickly he tumbles o're the vaſt volume, and in a name gives a brief gloſſe upon eve<g ref="char:EOLhyphen"/>ry creature, a conciſe epitome of their naturall hiſtories. He had a fair portion of knowledge, if he could have been contented with it. I, but he would fain have more, he muſt needs be taſting of the tree of knowledge: and hence ſprings our ignorance; we have ever ſince had an unhap<g ref="char:EOLhyphen"/>py <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ſoul hath been darkened and dim-ſighted. Perhaps it can ſee ſome goodly capitall letters, ſome fair flouriſht character: I, but there are multitudes of beings in a ſmaller print that it takes no notice of.</p>
+            <p n="2">2. The ſoul might ſee more, if it would imploy it ſelf more, and look oftner into this glaſſe of the creatures. Meditation would raiſe the creature higher, and diſtill ſweetneſſe out of every object. Tis <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the elegant Moraliſt. The ſoul is buſie with every thing it ſees, as buſie as a Bee: it goes from flower to flower, and extracts moſt precious ſweetneſſe.</p>
+            <p n="3">3. Some eyes have been dazled too much with the glitterings of the creatures, ſo as to take the ſervant for the Maſter: and have been ſo much in admiring the glaſſe, as they forgot the glorious beauty that it repreſented. What worſhip and adoration hath the ſunne had? even almoſt as much as the great Creatour of heaven and earth himſelf: ſtrange that they ſhould ſee ſo darkly, as not to diſcern the face from the vail that covers it. For the ſunne is at beſt but <hi>umbra Dei,</hi> and <hi>nubecula citò tranſi<g ref="char:EOLhyphen"/>tura;</hi> a mere ſpot, a cloud, if compared with ſo bright an
+<pb n="18" facs="tcp:65020:13"/>eſſence: and as he ſaith notably, The ſunnes worſhippers muſt needs be <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Atheiſts in the night time.</hi> You have ſeen the glaſſe of the <hi>Creatures,</hi> and how in it we ſee very darkly.</p>
+            <p>Secondly, in <hi>learnings</hi> glaſſe, <hi>in ſpeculo ſcientiarum.</hi> Learning brightens the intellectuall eie, and clarifies the ſoul: the Hebrews wiſe men are <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>aperti,</hi> men with eyes open: and it ſets a man on higher ground, and gives him a fairer proſpect of beings, and many advantages over others. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, when as <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they have eyes and ſee not: I, but <hi>theſe</hi> ſee, and yet very darkly. What need I tell you how invincible doubts blemiſh their brighteſt no<g ref="char:EOLhyphen"/>tions? how the Naturaliſts head is non-pluſt with an oc<g ref="char:EOLhyphen"/>cult qualitie, and he knows not how to take it off: how the choiceſt Moraliſts are poſ'd with the riddle of <hi>Sum<g ref="char:EOLhyphen"/>mum bonum,</hi> and cannot tell how to extricate themſelves. Look up higher to Metaphyſicks, which ſome ſtyle <hi>fim<g ref="char:EOLhyphen"/>bria Theologiae:</hi> I, but you may touch the hemme of its garment long enough before you find any vertue coming from it. Converſe but with the Schoolmens Works, and there you ſhall meet with <hi>anigmata in folio,</hi> voluminous riddles. Tis their grand imployment to tie a knot, and then ſee if they can undo it; to frame an enemie, and then triumph over him; to make an objection, and then an<g ref="char:EOLhyphen"/>ſwer it if they can: there are ſpeculations enough, but if you ſee through them, it will be very darkly.</p>
+            <p>But if you could ſee very clearely in all theſe, yet how weak and inſufficient are they to acquaint you with the <hi>Arcana</hi> of Religion, &amp; the great myſteries of Godlineſſe?</p>
+            <p n="1">1. Some ſuch as have been moſt eminent in them, and as he ſpeaks, have had wits of elevation ſituated as
+<pb n="19" facs="tcp:65020:13"/>upon a cliffe, but how little have they ſeen of heaven and heavenly things! Ariſtotle with the reſt of the heathen, what uncertain and fluctuating notions had they of a Dei<g ref="char:EOLhyphen"/>tie? we are beholden to their dying ſpeeches for moſt of their Divinity.</p>
+            <p n="2">2. Many under the light of the Goſpel, and furniſht with helps of humane learning, how ſtrangely unac<g ref="char:EOLhyphen"/>quainted are they with the knowledge of Chriſt crucified! A plain experienced Chriſtian (notwithſtanding all their auxiliary forces) onely by the help of a Bible, will put an whole army of them to flight: <hi>Surgunt indocti &amp; ra<g ref="char:EOLhyphen"/>piunt coelum,</hi> when <hi>they</hi> in the mean time do but, as he ſpeaks, <hi>ornare Diabolum;</hi> they become learned ſpoyles, <hi>Sa<g ref="char:EOLhyphen"/>pienter deſcendunt in infernum,</hi> they go cunningly to hell. And yet me thinks none ſhould be ſo ſilly and malicious as to put the fault in learning, whereas there is no greater vicinitie then between truth and goodneſſe; and heaven is full of knowledge, as it is of holineſſe: and it is brimfull of both.</p>
+            <p n="3">3. Sciences themſelves are weak and imperfect things, and therefore <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as our Apoſtle tells us, Knowledge ſhall be aboliſht, and Tongues which are <hi>vehicula ſcientiarum,</hi> they ſhall paſſe away. So then in this Glaſſe we ſee but darkly.</p>
+            <p>Thirdly, in the Glaſſe of the <hi>Scriptures, in ſpeculo ver<g ref="char:EOLhyphen"/>bi.</hi> This is a pure and ſpotleſſe glaſſe, repreſenting the will of God unto us, an eternall glaſſe that ſhall never be broken, more durable then heaven it ſelf: David was looking in this glaſſe day and night.</p>
+            <p>There are many falſe flattering glaſſes in the world: I, but here the ſoul may ſee its face in a moſt exact reſem<g ref="char:EOLhyphen"/>blance: it will ſhew the leaſt ſpot and deformity; the ſin<g ref="char:EOLhyphen"/>fulneſſe
+<pb n="20" facs="tcp:65020:14"/>of an idle word, of a vain thought, of a firſt motion though without conſent, the leaſt tendencies to ſinne, the firſt bublings up of corruption. It deals ſo plainly as many are offended with it, and ſwell the more againſt it: and thus <hi>ſinne takes occaſion by the command<g ref="char:EOLhyphen"/>ment,</hi> as <hi>Rom.</hi> 7. Fond Lais breaks her looking-glaſſe, becauſe it ſhews the wrinkles in her face: and gives the reaſon, <hi>Me cernere talem qualis ſum nolo, qualis eram nequeo.</hi> Well, the Law that's a glaſſe to ſhew us our ſpots, but it cannot wipe them off: I, but the Goſpel is a pure well of ſalvation, there one may ſee them and waſh them too.</p>
+            <p>In that Evangelicall mirrour you may ſee the face of a Saviour, coming in an amiable way with ſmiles of love, with offers of grace and ſaving mercie. Nay, the Go<g ref="char:EOLhyphen"/>ſpel is called <hi>the face of Jeſus Chriſt,</hi> 2. <hi>Cor.</hi> 4.6. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. As ſuppoſe a glaſſe when a man had once lookt into it, ſhould keep a permanent and unvaniſhing ſpecies of his face, though he himſelf afterwards were abſent; we might well ſay, There was the face of ſuch a man: the Goſpel is ſuch a glaſſe, Chriſt hath lookt into it, and ſhed his image upon it, and ever ſince it hath given moſt glori<g ref="char:EOLhyphen"/>ous repreſentations of him: it is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that I may borrow that expreſſion in the Hebrews: ſo that when we ſhall come to ſee him <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in heaven, we ſhall be able to ſay, Surely this the very Saviour that was deſcribed to me in the Goſpel; <hi>—ſic ille manus, ſic ora ferebat.</hi> And till we come to heaven it ſelf, we cannot meet with more full manifeſtations of God and Chriſt, and all the myſteries of ſalvation, then in the word of God; and yet here we ſee but darkly.</p>
+            <p>For if we conſider them under the old Teſtament,
+<pb n="21" facs="tcp:65020:14"/>how long was there comfort lockt up in that <hi>Aenigma,</hi> that primitive promiſe, which was <hi>Aurora Evangelii</hi> the firſt dawning of the Goſpel, <hi>The ſeed of the woman ſhall break the ſerpents head;</hi> and when truth began to ſhew it ſelf in ſome fuller diſcoveries, yet ſtill it was mixt with much obſcurity.</p>
+            <p>They had a twofold glaſſe. 1. <hi>Speculum ceremon. arum.</hi> 2. <hi>Speculum prophetiarum.</hi>
+            </p>
+            <p n="1">1. In the glaſſe of the Ceremonies they ſaw very darkly. We could not look for much light where there were ſo many ſhadows; where there were ſo many vails they could not ſee face to face. That the Jews worſhiped a cloud for their God, was a meer calumny: but that they worſhiped their God in a cloud we will eaſily grant, for <hi>all our fathers were under the cloud,</hi> 1. Cor. 10.1. the Ce<g ref="char:EOLhyphen"/>remoniall law was nothing elſe but an heap and miſcella<g ref="char:EOLhyphen"/>ny of riddles: who amongſt them could tell the mean<g ref="char:EOLhyphen"/>ing of them? nay it is well if we that have the type and antitype meeting together can give a juſt explanation of ſome of them. Well, this glaſſe is now broken: for Ce<g ref="char:EOLhyphen"/>remonies like falſe looking-plaſſes repreſent the object with too much ſhadow: and yet ſtill the ſcarlet whore will be dreſſing her ſelf by them, becauſe like flattering glaſſes they make her ſeem fairer and more beautifull. <hi>Majorésque cadunt altis de montibus umbrae.</hi>
+            </p>
+            <p n="2">2. <hi>In ſpeculo prophetiarum. Prophetia eſt ſpeculum in quo videntur futura.</hi> Here they might ſee the preſence of a de<g ref="char:EOLhyphen"/>fer'd deliverance, they might ſee the face of a promiſed Meſſias. Buxtorf, in his <hi>Synagoga Judaica,</hi> tells us that he is perſwaded this is one main reaſon why the Jews are ſo ignorant of the Meſſias, becauſe they are ſo little vers't in the Prophets: they ſpend their whole time upon the Law,
+<pb n="22" facs="tcp:65020:15"/>but will not caſt an eye upon them: he ſpeaks of the mo<g ref="char:EOLhyphen"/>dern Jews. God in much mercy hath given them glaſſes, and they will not vouchſafe to look in them: they were alwayes an obdurate and ſtiff-necked people, rebelling a<g ref="char:EOLhyphen"/>gainſt the Prophets, and they go on to fill up the ſinnes of their fathers. Well, but yet the Seers themſelves ſaw but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and they ſaw in them very darkly.</p>
+            <p>For 1. Propheſies (as the learned Verulam) have <hi>gradus &amp; ſcalas complementi,</hi> climbing accompliſhments, ſpringing and germinant accompliſhments. A propheſie in the bud is not ſo eaſily ſeen as when it ſhoots out fur<g ref="char:EOLhyphen"/>ther and ſpreads it ſelf in larger growth: ſuch paſſages in Eſay as ſeem to us cleare as the day, were to them dark and Enigmaticall: and we ſee how obſcure Saint Johns propheſie ſeems to us. And the Devil, who was alwaies Gods Ape, he over-imitated here; for his oracles were wrapt up in ſo many clouds, and withall ſo full of falla<g ref="char:EOLhyphen"/>cies, as none ever could tell their meaning till event had given the interpretation. The Prince of Darkneſſe would make all his ſayings wear his livery: Divine propheſies are as cleare as cryſtall, if compared with his cloudy oracles.</p>
+            <p n="2">2. Propheſies at beſt are but weak and impefect things, and therefore they alſo ſhall be aboliſhed, no need of them in heaven: they were very beneficiall to the Church militant, to acquaint her with approaching judgements, and prepare her for intended mercies; but when happineſſe is preſent and compleat, no need of them then, in the Church triumphant.</p>
+            <p>Thus you have ſeen how they under the Law ſaw but darkly: and if Gods peculiar people had ſo little know<g ref="char:EOLhyphen"/>ledge of him, in what groſſe and palpaple ignorance did
+<pb n="23" facs="tcp:65020:15"/>they live that had none of this his light ſhining upon them; for <hi>in Judah was God known, and his name was fa<g ref="char:EOLhyphen"/>mous in Iſrael. He hath not dealt ſo with every nation, nei<g ref="char:EOLhyphen"/>ther had the heathen knowledge of his law.</hi>
+            </p>
+            <p>And now if we look upon our ſelves that live under the light of the Goſpel, even we in this ſun-ſhinne ſee but darkly.</p>
+            <p n="1">1. There are many <hi>Evangelicall riddles,</hi> a God in<g ref="char:EOLhyphen"/>carnate, a crucified Saviour: which are ſuch, 1. as the Angels themſelves ſee but darkly, and therefore they are ſtill prying to ſee more. 2. Reaſon that great patron of unbelief wrangles againſt them; and yet reaſon it ſelf will dictate thus much, That the myſteries of religion ſhould be above the reach of reaſon. 3. The greateſt part of the world reject them: the Greeks eſteem them fooliſhneſſe: they think there is not ſo much in them as in a riddle; in that there is ſome hidden ſenſe, but theſe are plain fooliſhneſſe in their eſteem; and <hi>Evangelium</hi> to the Jews is no more then <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for ſo they blaſphe<g ref="char:EOLhyphen"/>mouſly call it, <hi>volumen iniquitatis.</hi> They ſtumble at a crucified Saviour, and yet themſelves were the crucifiers of him. The vail of the temple rent at his death; I, but the vail is ſtill upon their hearts, and yet that e're long ſhall be rent too: and <hi>they ſhall ſee him whom they have pierced, and ſhall mourn, and be in much bitterneſſe,</hi> and confeſſe <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>We crucified our love, we cru<g ref="char:EOLhyphen"/>cified our Saviour.</hi>
+            </p>
+            <p n="2">2. There are many <hi>Practicall truths</hi> which are meer riddles to carnall ſpirits; as to forſake all for a perſecuted Chriſt, to cut off right hands, pluck out right eyes, pray for enemies, not to do evil that good may come thereof; theſe principles they can hardly digeſt; and there are ma<g ref="char:EOLhyphen"/>ny
+<pb n="24" facs="tcp:65020:16"/>Chriſtian priviledges which they know not what to make of, Aſſurance of Gods favour, Communion with him, hidden Mannah, Joy in the Holy Ghoſt glorious and unſpeakable. Theſe and ſuch like puzle their appre<g ref="char:EOLhyphen"/>henſions; for they never entered into the heart of a na<g ref="char:EOLhyphen"/>turall man to conceive, it is too narrow for them to enter.</p>
+            <p n="3">3. There are many <hi>paſſages</hi> which to Chriſtians them<g ref="char:EOLhyphen"/>ſelves are dark and enigmaticall, ſuch as we cannot eaſi<g ref="char:EOLhyphen"/>ly underſtand. The book of the Revelation is all vail'd with obſcurity, the firſt thing we meet with almoſt are ſeven ſeals: it is full of hidden ſecrets, and who is there that can unſeal the book? Our adverſaries the Pa<g ref="char:EOLhyphen"/>piſts catch at this, and are ready with a double inference: The Scriptures are enigmaticall; therefore clear them with Traditions, therefore keep them from the people.</p>
+            <p>But 1. When we ſpeak of the Scriptures darkneſſe, it is but comparatively in reſpect of thoſe bright mani<g ref="char:EOLhyphen"/>feſtations we ſhall have of God hereafter. A pearl may be cleare and orient, and yet dark in reſpect of a ſtarre: a ſtarre may be bright, and yet obſcure if compared with the ſunne.</p>
+            <p n="2">2. All truths belonging to the eſſence of a Chriſtian are plain and perſpicuous: and there is an aſſiſting ſpirit, which though they perhaps may ſcoff at, and ſome others may unjuſtly pretend too, yet without doubt it ſhall lead Gods people into all truth.</p>
+            <p n="3">3. Is their Cabala ſo pure? are their traditions ſo cleare and cryſtaline, as that we ſhall ſee in them better then in the word? if you cannot ſee in a pellucid ſtream, do you think to ſee in a muddy ſtanding pool?</p>
+            <p>But Secondly, The Scriptures are enigmaticall, there<g ref="char:EOLhyphen"/>fore
+<pb n="25" facs="tcp:65020:16"/>keep them from the people. Nay rather, therefore explain them to them: therefore ſet up a faithfull mini<g ref="char:EOLhyphen"/>ſtery, whoſe <hi>lips may preſerve knowledge,</hi> and acquaint them with the myſteries of ſalvation, and open to them theſe hidden oracles. And let the people themſelves <hi>ſearch the Scriptures, dig for knowledge as for ſilver, and for wiſdome as hid treaſure.</hi> Again, they had better ſee in a glaſſe, though but darkly, then not to ſee at all: truth in a cloud, in a riddle is more amiable then a black and palpable ignorance. 3. They keep the Scriptures from them, not becauſe they ſee in them ſo darkly, but leſt they ſhould ſee in them too clearely; and above all they lock up the Revelation, not as it is obſcure, but becauſe it threatens the ſeven hills ſo much. And thus we have look't upon the third particular, the glaſſe of the <hi>Scriptures.</hi>
+            </p>
+            <p>Fourthly, <hi>In ſpeculo Providentiae.</hi> Here Gods glori<g ref="char:EOLhyphen"/>ous attributes ſhine forth, his wiſdome, juſtice, good<g ref="char:EOLhyphen"/>neſſe, and the reſt of that glorious conſtellation. And Providence ſets before us examples, they are glaſſes in which we may ſee either the beauty of holineſſe, or elſe ſinnes deformitie. And it is no ſmall felicity of this la<g ref="char:EOLhyphen"/>ter age that we have the uſe of theſe glaſſes, the bene<g ref="char:EOLhyphen"/>fit of ſo many former examples; and yet we ſee in them but darkly, they are <hi>a cloud of witneſſes,</hi> as it is Hebr. 12.1. though in another ſenſe. Providence is very myſterious, and there is no readier way to Atheiſme then to queſtion it when we cannot give a ſufficient ac<g ref="char:EOLhyphen"/>count of it. The Indians have a cuſtome, once a yeare to caſt a golden buſhel into the ſea: and thus they think they ſet a meaſure and bound to its proud waves, ſo as it ſhall not invade their land. Their cuſtome is ri<g ref="char:EOLhyphen"/>diculous
+<pb n="26" facs="tcp:65020:17"/>enough, and yet they are farre more vain that go about <hi>Deum ſuo modulo metiri,</hi> to circumſcribe an Immenſe being with the narrow compaſſe of their rea<g ref="char:EOLhyphen"/>ſon. Audacious men, that go about to ſet providence a platform, which if it ſhall tranſgreſſe, it preſently paſſes the bounds of juſtice.</p>
+            <p>Saint Paul that could have dived as deep as another and brought up many pretious pearly obſervations with him, yet dares not venture in, but ſtanding aloof off upon the ſhore, admires the vaſt and boundleſſe ocean, and as one amazed, and almoſt ſwallowed up with the very conſideration of it he cries out, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>O the depth of the riches both of the wiſdome and knowledge of God! How unſearchable are his judgements, and his wayes paſt finding out!</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his wayes are in the deep; there is no <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of them, not the leaſt print or <hi>veſtigium,</hi> no tracing of a Deity. That God from all eternity ſhould ſmile on Jacob, and frown on Eſau, and that before they had done either good or evil: that the one ſhould become <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>vas deſiderii</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the other <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. that God ſhould break open the heart of a rebellious ſinner by his efficacious grace, and deny ſufficient aid to one that hath improved his preſent ſtrength farre better; that he ſhould ſhine out onely upon ſome few ſpots of ground with the light of the Goſpel, and ſhut up the reſt in palpable darkneſſe; that he ſhould ſuffer his deareſt children to be wronged and inſulted o're, when wickedneſſe in the mean while triumphs ſecurely: theſe and many ſuch like are <hi>aenigmata providentiae;</hi> we ſee in this glaſſe darkly.</p>
+            <p>Fifthly, <hi>In ſpeculo fidei.</hi> Here we ſee <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for
+<pb n="27" facs="tcp:65020:17"/>faith is a ſure perſpective-glaſſe, by which Abrahams aged eye ſaw Chriſts day though afarre off; and the reſt of the Saints <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they ſaw them at a diſtance, and yet embraced them: a glaſſe by which Moſes ſaw him that was inviſible. It is <hi>ſpeculum coloratum,</hi> and do's <hi>imbuere objectum colore ſuo:</hi> it can ſee a mercy in a judgement, and deliverance in a captivity, help in an exigency: and promiſes they are faiths glaſſes, and they ſpeak as the looking-glaſſe in the Greek Epi<g ref="char:EOLhyphen"/>gram, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>if you look on me I look upon you;</hi> if you apply me, I belong unto you.</p>
+            <p>And yet we ſee here but darkly: for faith it ſelf (not to ſpeak of thoſe many doubtings and waverings, thoſe rollings and inquietations of ſpirit that accompany it: for many cannot reach to aſſurance, few attain to a plero<g ref="char:EOLhyphen"/>phorie,) is oppoſed to viſion, 2. <hi>Cor.</hi> 5.7. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>we walk by faith and not by ſight, &amp; non per aſpectum.</hi> Faith as it lives in the mount, (for <hi>in the mount will the Lord be ſeen</hi>) ſo it dies in the mount too like Moſes, it never enters into the land of promiſe; for it had its Canaan here, <hi>a land flowing with milk and honey.</hi>
+            </p>
+            <p>Sixthly, <hi>In ſpeculo Sacramentorum.</hi> Such great and tranſcendent myſteries as the apprehenſions of Angels cannot reach unto, are here preſented to the ſenſes.</p>
+            <p>Baptiſme, that's a looking-glaſſe where the firſt beam of Gods favourable countenance ſhews it ſelf, the firſt expreſſion of his love to a ſinfull creature. The laver un<g ref="char:EOLhyphen"/>der the Law was made of looking-glaſſes; and the laver of regeneration under the Goſpel is its ſelf a looking-glaſſe, where you may ſee a God in covenant with you, and yet he does not ſhew himſelf with a ſpreading and immediate ray, but onely in a ſacramentall reflex: and
+<pb n="28" facs="tcp:65020:18"/>Baptiſme, though it be ſtyled <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yet we ſee in it but darkly, in a riddle, much like that of <hi>coelum in tribus ul<g ref="char:EOLhyphen"/>nis.</hi> You may ſee heaven in this well of ſalvation. As it was uſed by way of immerſion, there was a riddle of the Reſurrection; as by way of ſprinkling, there's a rid<g ref="char:EOLhyphen"/>dle of ſanctification. You would ſay, It were no won<g ref="char:EOLhyphen"/>der if I ſhould tell you <hi>the infant</hi> ſees in it but darkly. I, but who is there <hi>of riper yeares</hi> that looks on this glaſſe, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> makes any uſe of it? Who is there almoſt that ſpends a thought upon his Baptiſme?</p>
+            <p>And as for the Sacrament of the Lords Supper, why here's a glaſſe that Chriſt left with his deare Spouſe when he went away from her, in which ſhe may ſtill ſee his face, and be mindfull of him. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Do this in remembrance of me,</hi> and <hi>do it to put me in remem<g ref="char:EOLhyphen"/>brance of you</hi> for <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> includes both. There is mutuall aſpect, and reciprocall glances between Chriſt and a believing ſoul in the Sacrament. Chriſt looks upon the ſoul with a gracious eie, and the ſoul looks upon him with an eie of faith. And here are <hi>aenigmatae convivalia,</hi> like that of Samſons, <hi>Out of the ſtrong comes ſweetneſſe.</hi>
+            </p>
+            <p>And thus we have ſhewn you the ſeverall glaſſes though which we ſee but datary. There remains the <hi>viſio recta,</hi> a ſight of God <hi>face to face, to know as we are known.</hi> But this Hereafter.</p>
+            <p>
+               <hi>READER,</hi>
+               <q>
+                  <l>What this <hi>to know as we are known</hi> ſhould be</l>
+                  <l>The Authour could not tell, but's gone to ſee.</l>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65020:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
